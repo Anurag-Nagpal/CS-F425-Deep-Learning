@@ -4,6 +4,8 @@ This project is part of course CS F425 Deep Learning at BITS Goa.
 
 In this project, we learned that Cycle Consistency Adversarial Networks tries to solve image-image translation problems without paired data. The objective function it uses is the Adversarial losses and Cycle consistency losses. Image-Image translation is used in Object Transfiguration, Photo Enhancement, Style Transformation, Season Transformation and Image Segmentation. We made the model and tested it on a new city dataset and performed image segmentation.
 
+Addtional details about the project can be found in [project report](https://github.com/Anurag-Nagpal/CS-F425-Deep-Learning/blob/b46354845676545ac38958c1fb1255dfb80e9ce9/Report.pdf).
+
 ### Team Members
 
 - Anurag Nagpal [2018B1A70939G]
